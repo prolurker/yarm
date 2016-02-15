@@ -1,0 +1,302 @@
+tile.oreLead.name=Lead Ore
+item.chunkLead.name=Lead Chunk
+item.chunk_dirtyLead.name=Dirty Lead Chunk
+item.clumpLead.name=Lead Clump
+item.clump_dirtyLead.name=Dirty Lead Clump
+item.crystallineLead.name=Crystalized Lead
+item.crystalline_dirtyLead.name=Unpure Crystalized Lead
+item.dustLead.name=Pulverized Lead
+item.dust_dirtyLead.name=Dirty Pulverized Lead
+item.ingotLead.name=Lead Ingot
+item.nuggetLead.name=Lead Nugget
+tile.blockLead.name=Lead Block
+
+tile.oreTin.name=Tin Ore
+item.chunkTin.name=Tin Chunk
+item.chunk_dirtyTin.name=Dirty Tin Chunk
+item.clumpTin.name=Tin Clump
+item.clump_dirtyTin.name=Dirty Tin Clump
+item.crystallineTin.name=Crystalized Tin
+item.crystalline_dirtyTin.name=Unpure Crystalized Tin
+item.dustTin.name=Pulverized Tin
+item.dust_dirtyTin.name=Dirty Pulverized Tin
+item.ingotTin.name=Tin Ingot
+item.nuggetTin.name=Tin Nugget
+tile.blockTin.name=Tin Block
+
+tile.oreCopper.name=Copper Ore
+item.chunkCopper.name=Copper Chunk
+item.chunk_dirtyCopper.name=Dirty Copper Chunk
+item.clumpCopper.name=Copper Clump
+item.clump_dirtyCopper.name=Dirty Copper Clump
+item.crystallineCopper.name=Crystalized Copper
+item.crystalline_dirtyCopper.name=Unpure Crystalized Copper
+item.dustCopper.name=Pulverized Copper
+item.dust_dirtyCopper.name=Dirty Pulverized Copper
+item.ingotCopper.name=Copper Ingot
+item.nuggetCopper.name=Copper Nugget
+tile.blockCopper.name=Copper Block
+
+tile.oreIron.name=Iron Ore
+item.chunkIron.name=Iron Chunk
+item.chunk_dirtyIron.name=Dirty Iron Chunk
+item.clumpIron.name=Iron Clump
+item.clump_dirtyIron.name=Dirty Iron Clump
+item.crystallineIron.name=Crystalized Iron
+item.crystalline_dirtyIron.name=Unpure Crystalized Iron
+item.dustIron.name=Pulverized Iron
+item.dust_dirtyIron.name=Dirty Pulverized Iron
+item.ingotIron.name=Iron Ingot
+item.nuggetIron.name=Iron Nugget
+tile.blockIron.name=Iron Block
+
+tile.oreSilver.name=Silver Ore
+item.chunkSilver.name=Silver Chunk
+item.chunk_dirtySilver.name=Dirty Silver Chunk
+item.clumpSilver.name=Silver Clump
+item.clump_dirtySilver.name=Dirty Silver Clump
+item.crystallineSilver.name=Crystalized Silver
+item.crystalline_dirtySilver.name=Unpure Crystalized Silver
+item.dustSilver.name=Pulverized Silver
+item.dust_dirtySilver.name=Dirty Pulverized Silver
+item.ingotSilver.name=Silver Ingot
+item.nuggetSilver.name=Silver Nugget
+tile.blockSilver.name=Silver Block
+
+tile.oreGold.name=Gold Ore
+item.chunkGold.name=Gold Chunk
+item.chunk_dirtyGold.name=Dirty Gold Chunk
+item.clumpGold.name=Gold Clump
+item.clump_dirtyGold.name=Dirty Gold Clump
+item.crystallineGold.name=Crystalized Gold
+item.crystalline_dirtyGold.name=Unpure Crystalized Gold
+item.dustGold.name=Pulverized Gold
+item.dust_dirtyGold.name=Dirty Pulverized Gold
+item.ingotGold.name=Gold Ingot
+item.nuggetGold.name=Gold Nugget
+tile.blockGold.name=Gold Block
+
+tile.oreUranium.natural.name=Uranium Ore
+item.chunkUranium.natural.name=Uranium Chunk
+item.chunk_dirtyUranium.natural.name=Dirty Uranium Chunk
+item.clumpUranium.natural.name=Uranium Clump
+item.clump_dirtyUranium.natural.name=Dirty Uranium Clump
+item.crystallineUranium.natural.name=Crystalized Uranium
+item.crystalline_dirtyUranium.natural.name=Unpure Crystalized Uranium
+item.dustUranium.natural.name=Pulverized Uranium
+item.dust_dirtyUranium.natural.name=Dirty Pulverized Uranium
+item.ingotUranium.natural.name=Uranium Ingot
+item.nuggetUranium.natural.name=Uranium Nugget
+tile.blockUranium.natural.name=Uranium Block
+
+item.chunkUranium.depleted.name=Depleted Uranium Chunk
+item.chunk_dirtyUranium.depleted.name=Dirty Depleted Uranium Chunk
+item.clumpUranium.depleted.name=Depleted Uranium Clump
+item.clump_dirtyUranium.depleted.name=Dirty Depleted Uranium Clump
+item.crystallineUranium.depleted.name=Depleted Crystalized Uranium
+item.crystalline_dirtyUranium.depleted.name=Unpure Depleted Crystalized Uranium
+item.dustUranium.depleted.name=Pulverized Depleted Uranium
+item.dust_dirtyUranium.depleted.name=Dirty Depleted Pulverized Uranium
+item.ingotUranium.depleted.name=Depleted Uranium Ingot
+item.nuggetUranium.depleted.name=Depleted Uranium Nugget
+tile.blockUranium.depleted.name=Depleted Uranium Block
+
+item.chunkUranium.enriched.name=Enriched Uranium Chunk
+item.chunk_dirtyUranium.enriched.name=Dirty Enriched Uranium Chunk
+item.clumpUranium.enriched.name=Enriched Uranium Clump
+item.clump_dirtyUranium.enriched.name=Dirty Enriched Uranium Clump
+item.crystallineUranium.enriched.name=Enriched Crystalized Uranium
+item.crystalline_dirtyUranium.enriched.name=Unpure Enriched Crystalized Uranium
+item.dustUranium.enriched.name=Pulverized Enriched Uranium
+item.dust_dirtyUranium.enriched.name=Dirty Enriched Pulverized Uranium
+item.ingotUranium.enriched.name=Enriched Uranium Ingot
+item.nuggetUranium.enriched.name=Enriched Uranium Nugget
+tile.blockUranium.enriched.name=Enriched Uranium Block
+
+info.uranium.natural.atm=Natural
+info.uranium.depleted.atm=U-238
+info.uranium.enriched.atm=U-235
+
+tile.oreThorium.name=Thorium Ore
+item.chunkThorium.name=Thorium Chunk
+item.chunk_dirtyThorium.name=Dirty Thorium Chunk
+item.clumpThorium.name=Thorium Clump
+item.clump_dirtyThorium.name=Dirty Thorium Clump
+item.crystallineThorium.name=Crystalized Thorium
+item.crystalline_dirtyThorium.name=Unpure Crystalized Thorium
+item.dustThorium.name=Pulverized Thorium
+item.dust_dirtyThorium.name=Dirty Pulverized Thorium
+item.ingotThorium.name=Thorium Ingot
+item.nuggetThorium.name=Thorium Nugget
+tile.blockThorium.name=Thorium Block
+
+info.thorium.atm=Th-232
+
+tile.orePlutonium.name=Plutonium Ore
+item.dustPlutonium.name=Pulverized Plutonium
+item.ingotPlutonium.name=Plutonium Ingot
+item.nuggetPlutonium.name=Plutonium Nugget
+tile.blockPlutonium.name=Plutonium Block
+
+info.plutonium.atm=Pu-239
+
+item.dustMox.name=Pulverized MOX
+item.ingotMox.name=MOX Ingot
+item.nuggetMox.name=MOX Nugget
+tile.blockMox.name=MOX Block 
+
+info.mox.atm=(U,Pu)O2
+
+tile.oreMonazite.name=Monazite Ore
+item.chunkMonazite.name=Monazite Chunk
+item.chunk_dirtyMonazite.name=Dirty Monazite Chunk
+item.clumpMonazite.name=Monazite Clump
+item.clump_dirtyMonazite.name=Dirty Monazite Clump
+item.crystallineMonazite.name=Crystalized Monazite
+item.crystalline_dirtyMonazite.name=Unpure Crystalized Monazite
+item.dustMonazite.name=Pulverized Monazite
+item.dust_dirtyMonazite.name=Dirty Pulverized Monazite
+item.ingotMonazite.name=Monazite Ingot
+item.nuggetMonazite.name=Monazite Nugget
+tile.blockMonazite.name=Monazite Block
+
+tile.oreNatrium.name=Natrium Ore
+item.dustNatrium.name=Pulverized Natrium
+item.ingotNatrium.name=Natrium Ingot
+item.nuggetNatrium.name=Natrium Nugget
+tile.blockNatrium.name=Natrium Block
+
+tile.oreChromium.name=Chromium Ore
+item.chunkChromium.name=Chromium Chunk
+item.chunk_dirtyChromium.name=Dirty Chromium Chunk
+item.clumpChromium.name=Chromium Clump
+item.clump_dirtyChromium.name=Dirty Chromium Clump
+item.crystallineChromium.name=Crystalized Chromium
+item.crystalline_dirtyChromium.name=Unpure Crystalized Chromium
+item.dustChromium.name=Pulverized Chromium
+item.dust_dirtyChromium.name=Dirty Pulverized Chromium
+item.ingotChromium.name=Chromium Ingot
+item.nuggetChromium.name=Chromium Nugget
+tile.blockChromium.name=Chromium Block
+
+tile.oreBoron.natural.name=Boron Ore
+item.chunkBoron.natural.name=Boron Chunk
+item.chunk_dirtyBoron.natural.name=Dirty Boron Chunk
+item.clumpBoron.natural.name=Boron Clump
+item.clump_dirtyBoron.natural.name=Dirty Boron Clump
+item.crystallineBoron.natural.name=Crystalized Boron
+item.crystalline_dirtyBoron.natural.name=Unpure Crystalized Boron
+item.dustBoron.natural.name=Pulverized Boron
+item.dust_dirtyBoron.natural.name=Dirty Pulverized Boron
+item.ingotBoron.natural.name=Boron Ingot
+item.nuggetBoron.natural.name=Boron Nugget
+tile.blockBoron.natural.name=Boron Block
+
+item.chunkBoron.depleted.name=Depleted Boron Chunk
+item.chunk_dirtyBoron.depleted.name=Dirty Depleted Boron Chunk
+item.clumpBoron.depleted.name=Depleted Boron Clump
+item.clump_dirtyBoron.depleted.name=Dirty Depleted Boron Clump
+item.crystallineBoron.depleted.name=Depleted Crystalized Boron
+item.crystalline_dirtyBoron.depleted.name=Unpure Depleted Crystalized Boron
+item.dustBoron.depleted.name=Pulverized Depleted Boron
+item.dust_dirtyBoron.depleted.name=Dirty Depleted Pulverized Boron
+item.ingotBoron.depleted.name=Depleted Boron Ingot
+item.nuggetBoron.depleted.name=Depleted Boron Nugget
+tile.blockBoron.depleted.name=Depleted Boron Block
+
+item.chunkBoron.enriched.name=Enriched Boron Chunk
+item.chunk_dirtyBoron.enriched.name=Dirty Enriched Boron Chunk
+item.clumpBoron.enriched.name=Enriched Boron Clump
+item.clump_dirtyBoron.enriched.name=Dirty Enriched Boron Clump
+item.crystallineBoron.enriched.name=Enriched Crystalized Boron
+item.crystalline_dirtyBoron.enriched.name=Unpure Enriched Crystalized Boron
+item.dustBoron.enriched.name=Pulverized Enriched Boron
+item.dust_dirtyBoron.enriched.name=Dirty Enriched Pulverized Boron
+item.ingotBoron.enriched.name=Enriched Boron Ingot
+item.nuggetBoron.enriched.name=Enriched Boron Nugget
+tile.blockBoron.enriched.name=Enriched Boron Block
+
+info.boron.natural.atm=Natural
+info.boron.depleted.atm=B-11
+info.boron.enriched.atm=B-10
+
+item.dustGraphite.name=Graphite Dust
+item.ingotGraphite.name=Graphite Bar
+item.nuggetGraphite.name=Graphite Nugget
+tile.blockGraphite.name=Graphite Block
+
+item.dustSteel.name=Pulverized Steel
+item.ingotSteel.name=Steel Ingot
+item.nuggetSteel.name=Steel Nugget
+tile.blockSteel.name=Steel Block
+item.gearSteel.name=Steel Gear
+
+item.dustStainlessSteel.name=Pulverized Stainless Steel
+item.ingotStainlessSteel.name=Stainless Steel Ingot
+item.nuggetStainlessSteel.name=Stainless Steel Nugget
+tile.blockStainlessSteel.name=Stainless Steel Block
+item.gearStainlessSteel.name=Stainless Steel Gear
+
+item.dustBoronSteel.name=Pulverized Boron Steel
+item.ingotBoronSteel.name=Boron Steel Ingot
+item.nuggetBoronSteel.name=Boron Steel Nugget
+tile.blockBoronSteel.name=Boron Steel Block
+item.gearBoronSteel.name=Boron Steel Gear
+
+item.dustNickelSteel.name=Pulverized Ferronickel Steel
+item.ingotNickelSteel.name=Ferronickel Steel Ingot
+item.nuggetNickelSteel.name=Ferronickel Steel Nugget
+tile.blockNickelSteel.name=Ferronickel Steel Block
+item.gearStainlessSteel.name=Ferronickel Steel Gear
+
+item.hoeSteel.name=Steel Hoe
+item.axeSteel.name=Steel Axe
+item.pickaxeSteel.name=Steel Pickaxe
+item.shovelSteel.name=Steel Shovel
+item.swordSteel.name=Steel Sword
+
+item.helmetSteel.name=Steel Helmet
+item.chestplateSteel.name=Steel Chestplate
+item.leggingsSteel.name=Steel Leggings
+item.bootsSteel.name=Steel Boots
+
+item.hoeStainlessSteel.name=Stainless Steel Hoe
+item.axeStainlessSteel.name=Stainless Steel Axe
+item.pickaxeStainlessSteel.name=Stainless Steel Pickaxe
+item.shovelStainlessSteel.name=Stainless Steel Shovel
+item.swordStainlessSteel.name=Stainless Steel Sword
+
+item.helmetStainlessSteel.name=Stainless Steel Helmet
+item.chestplateStainlessSteel.name=Stainless Steel Chestplate
+item.leggingsStainlessSteel.name=Stainless Steel Leggings
+item.bootsStainlessSteel.name=Stainless Steel Boots
+
+item.hoeBoronSteel.name=Boron Steel Hoe
+item.axeBoronSteel.name=Boron Steel Axe
+item.pickaxeBoronSteel.name=Boron Steel Pickaxe
+item.shovelBoronSteel.name=Boron Steel Shovel
+item.swordBoronSteel.name=Boron Steel Sword
+
+item.helmetBoronSteel.name=Boron Steel Helmet
+item.chestplateBoronSteel.name=Boron Steel Chestplate
+item.leggingsBoronSteel.name=Boron Steel Leggings
+item.bootsBoronSteel.name=Boron Steel Boots
+
+item.hoeNickelSteel.name=Ferronickel Steel Hoe
+item.axeNickelSteel.name=Ferronickel Steel Axe
+item.pickaxeNickelSteel.name=Ferronickel Steel Pickaxe
+item.shovelNickelSteel.name=Ferronickel Steel Shovel
+item.swordNickelSteel.name=Ferronickel Steel Sword
+
+item.helmetNickelSteel.name=Ferronickel Steel Helmet
+item.chestplateNickelSteel.name=Ferronickel Steel Chestplate
+item.leggingsNickelSteel.name=Ferronickel Steel Leggings
+item.bootsNickelSteel.name=Ferronickel Steel Boots
+
+
+
+tile.bronzeMachineFrame.name=Bronze Machine Frame
+tile.ironMachineFrame.name=Iron Machine Frame
+tile.steelMachineFrame.name=Steel Machine Frame
+tile.stainlessSteelMachineFrame.name=Stainless Steel Machine Frame
+tile.nickelSteelMachineFrame.name=Ferronickel Steel Machine Frame
